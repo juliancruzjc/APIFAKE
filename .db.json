@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "title": "json-server",
+      "author": "Julian Cruz",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
